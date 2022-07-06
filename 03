@@ -10,3 +10,5 @@ void removePar(tlista *l){
 	}
 	printList(l);
 }
+
+//Deyvison Nogueira
