@@ -10,3 +10,5 @@ int verificaOrdenado(tlista *lista){
 	}
 	return 1;		
 }
+
+//Deyvison Nogueira
