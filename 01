@@ -6,3 +6,5 @@ int encontraValor(tlista l, tdado v){
 	}
 		return 0;
 }
+
+*Deyvison Nogueira
